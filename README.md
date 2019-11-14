@@ -1,0 +1,2 @@
+# bijoy
+programmer,scientist,mathematician
